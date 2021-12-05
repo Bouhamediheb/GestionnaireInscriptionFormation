@@ -1,0 +1,13 @@
+C:\Users\Bouhamed\source\repos\GestionnairedeFormation\bin\Debug\GestionnairedeFormation.exe.config
+C:\Users\Bouhamed\source\repos\GestionnairedeFormation\bin\Debug\GestionnairedeFormation.exe
+C:\Users\Bouhamed\source\repos\GestionnairedeFormation\bin\Debug\GestionnairedeFormation.pdb
+C:\Users\Bouhamed\source\repos\GestionnairedeFormation\obj\Debug\GestionnairedeFormation.csprojAssemblyReference.cache
+C:\Users\Bouhamed\source\repos\GestionnairedeFormation\obj\Debug\GestionnairedeFormation.Form1.resources
+C:\Users\Bouhamed\source\repos\GestionnairedeFormation\obj\Debug\GestionnairedeFormation.Properties.Resources.resources
+C:\Users\Bouhamed\source\repos\GestionnairedeFormation\obj\Debug\GestionnairedeFormation.csproj.GenerateResource.cache
+C:\Users\Bouhamed\source\repos\GestionnairedeFormation\obj\Debug\GestionnairedeFormation.csproj.CoreCompileInputs.cache
+C:\Users\Bouhamed\source\repos\GestionnairedeFormation\obj\Debug\GestionnairedeFormation.exe
+C:\Users\Bouhamed\source\repos\GestionnairedeFormation\obj\Debug\GestionnairedeFormation.pdb
+C:\Users\Bouhamed\source\repos\GestionnairedeFormation\obj\Debug\GestionnairedeFormation.Menu.resources
+C:\Users\Bouhamed\source\repos\GestionnairedeFormation\obj\Debug\GestionnairedeFormation.Planification.resources
+C:\Users\Bouhamed\source\repos\GestionnairedeFormation\obj\Debug\GestionnairedeFormation.Affichage.resources
